@@ -6,7 +6,7 @@ It is a simple game for the windows console, called Master Mind.
 
 # How to install
 
-Simply download the Source from here, or download the packaged game from http://lpion.com/games.
+Simply download the Source from here, or download the packaged game from http://games.lpion.com.
 
 Download the .zip, extract and thats it. The .exe will be in the folder to start the game. 
 
